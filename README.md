@@ -1,11 +1,12 @@
 # johnowino.github.io
-Public repository for project
-# Week-1-Project
-# My landing page
+Portfolio Landing Page
+# Week-1 Projeect - Introduction to Robotic Process Automation
+# My Portfolio Landing Page
 #### This landing page provide information about myself, 23rd February 2023.
 #### By **John Owino**
 ## Description
 This landing page has a photo of myself. It includes the list of basic projects i have done on webpage creation using html. It also provides some background on my education, job expereicne and the decison why i choose to take a course in programmimg. Also included is a list of my current interests, hobbies and skill.
+You may access the live site on GitHUb via this link https://johnowino.github.io/
 ## Setup/Installation Requirements
 You require a laptop with access to the internet. You need to have the following programs installed on your laptop.
 1. Windows Power Shell with admin rights
